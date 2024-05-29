@@ -1,5 +1,5 @@
-## Modificacion del proyecto de 0365creeper a Python3
-    Proyecto original
+## Modification of the project from 0365creeper to Python3
+    Original Project
     https://github.com/LMGsec/o365creeper
 
 ## Description
